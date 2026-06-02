@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# 변환 결과물
+result/
+
+# 개발 임시파일
+*.tmp
